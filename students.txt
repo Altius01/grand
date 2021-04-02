@@ -1,4 +1,8 @@
 
 Alexey_Eberil_1<Aaeberil@edu.hse.ru>
 Alex<Altius01@mail.ru>
+<<<<<<< HEAD
 Vasya<V>
+=======
+Petya<Petya>
+>>>>>>> Default
